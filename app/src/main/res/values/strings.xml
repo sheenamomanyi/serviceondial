@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Service-On-Dial</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_identity">Provider</string>
+    <string name="prompt_location">Location</string>
+    <string name="prompt_phone">Phone No.</string>
+    <string name="prompt_qualifications">Qualifications</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_invalid_phone_no">This Phone No. is invalid!</string>
+    <string name="error_short_username">This username is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="action_register">Register</string>
+    <string name="action_logout">Logout</string>
+    <string name="dial_icon">App Logo</string>
+    <string name="app_name_login">Login: Service Provider</string>
+    <string name="app_name_register">Register: Service Provider</string>
+    <string name="app_name_view_data">Info: Service Provider</string>
+    <string name="services_list">Services Will be Listed Here</string>
+    <string name="search_services">SOD: Services</string>
+    <string name="go_post_service">Go Post A Service</string>
+    <string name="post_service">Post Service</string>
+    <string name="title_activity_post">PostActivity</string>
+    <string name="service">Service</string>
+    <string name="location">Location</string>
+    <string name="search">Search</string>
+    <string name="quit_x_cancel">X</string>
+    <string name="hint_phone_no">Phone No.</string>
+    <string name="hint_service_charge">Service Charge</string>
+    <string name="hint_service">Service</string>
+    <string name="hint_service_provider">Service provider</string>
+    <string name="btn_call">Call</string>
+    <string name="btn_chat">Chat</string>
+    <string name="lst_provider">Provider</string>
+    <string name="lst_service">Service</string>
+    <string name="lst_charge">Charge</string>
+    <string name="lst_location">Location</string>
+    <string name="pop_profile_pic">Profile Pic</string>
+    <string name="label_login">Login</string>
+    <string name="lb_register">Register</string>
+    <string name="lb_my_info">My Info: Edit</string>
+    <string name="save_info">Save Info</string>
+    <string name="service_type">Service</string>
+    <string name="amount_charged">Amount Charged</string>
+    <string name="back">Back</string>
+    <string name="no_connection_to_server">No Connection to Server</string>
+    <string name="no_data_found">No Data Found</string>
+</resources>
